@@ -4,5 +4,6 @@ public class P1 {
 	
 	private String a;
 	private String b;
+	private String c;
 
 }
